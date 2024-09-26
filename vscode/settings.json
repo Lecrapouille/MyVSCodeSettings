@@ -8,7 +8,8 @@
             "makeArgs": []
         }
     ],
-    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "makefile.compileCommandsPath": "${workspaceFolder}/.vscode/compile_commands.json",
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
     // Enable Python linting and Pylance type checking
     "cpplint.lineLength": 82,
     "cpplint.filters": [
