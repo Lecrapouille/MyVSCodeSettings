@@ -1,15 +1,15 @@
 # Visual Studio Code Plugins
 
-## List installed plugins
+## List installed extensions
 
 ```
 code --list-extensions
 ```
 
-Install plugins from a given file:
+Install extensions from a given file:
 
 ```
-for i in `cat plugins.txt`; do code --install-extension $i; done
+for i in `cat extensions.txt`; do code --install-extension $i; done
 ```
 
 Install / uninstal:
