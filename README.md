@@ -1,5 +1,10 @@
 # Visual Studio Code Plugins
 
+## Installation
+
+- Install https://code.visualstudio.com/ or https://www.cursor.com/
+- Copy the folder `vscode` as `.vscode` at your project root folder.
+
 ## List installed extensions
 
 ```
